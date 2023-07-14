@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h2> Hi 👋 I'm I'm Surya Aryal.</h2>
+  <h2> Hi 👋 I'm Surya Aryal.</h2>
   <h3 align="center">Mean Stack Developer | Angular + Node.js + MongoDB</h3>
   <div id="badges">
     <a href="https://www.linkedin.com/in/surya-aryal-ba174a219/">
