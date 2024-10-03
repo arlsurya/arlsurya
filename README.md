@@ -2,7 +2,7 @@
   <h2> Hi 👋 I'm Surya Aryal.</h2>
   <h3 align="center">Mean Stack Developer | Angular + Node.js + MongoDB</h3>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/surya-aryal-ba174a219/">
+    <a href="https://linkedin.com/in/yograj-aryal-ba174a219">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/martin_52565404">
